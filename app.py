@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+import joblib
 import sklearn.datasets
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
