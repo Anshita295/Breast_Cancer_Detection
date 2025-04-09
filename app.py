@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import numpy as np
 import sklearn.datasets
 from sklearn.model_selection import train_test_split
